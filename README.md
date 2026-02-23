@@ -1,3 +1,4 @@
+#*This is an OMNIE project. Learn about the vision and rules at the [OmniScience Framework](https://github.com/Billy-2023/OmniScience-Framework).*
 # Internet Explained
 
 **The OmniScience of How the Network of Networks Actually Works.**
